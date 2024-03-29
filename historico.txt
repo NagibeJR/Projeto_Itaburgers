@@ -1,0 +1,9 @@
+Jogador 1: jadson
+Jogador 2: haendel
+Vencedor: jadson
+
+Jogador 1: jadson
+Jogador 2: haendel
+Vencedor: jadson
+
+
